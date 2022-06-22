@@ -1,0 +1,1 @@
+print("aman mera pizza kha gya ek slice poora")
